@@ -13,6 +13,7 @@ public class Example {
 
         Scanner in = new Scanner(System.in);
 
+        // Решение
 
         System.out.print("N = ");
         int n = in.nextInt();

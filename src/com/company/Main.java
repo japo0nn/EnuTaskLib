@@ -12,6 +12,8 @@ public class Main {
 
             Scanner in = new Scanner(System.in);
 
+        System.out.println("H");
+
             //Решение Задачи
 
     }
